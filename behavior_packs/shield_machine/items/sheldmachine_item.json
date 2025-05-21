@@ -1,0 +1,14 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "noname1430:shield_machine"
+    },
+
+    "components": {
+      "minecraft:icon": {
+        "texture":"shield_machine"
+      }
+    }
+  }
+}

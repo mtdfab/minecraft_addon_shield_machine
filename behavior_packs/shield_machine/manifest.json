@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "ごめん、同級会には行けません。いま、シンガポールにいます。",
+        "description": "この国を南北に縦断する地下鉄を、私は作っています。",
+        "uuid": "d5179267-2c4f-d6b3-11a2-f056b43fa8ec",
+        "version": [1,0,1],
+        "min_engine_version": [1,20,0]
+    },
+    "modules": [
+        {
+            "type": "script",
+            "version": [1,0,0],
+            "uuid": "dd164478-d838-6ee4-4f06-457d441e3317",
+            "entry": "scripts/main.js"
+        }
+    ],
+    "dependencies": [
+        {
+            "module_name": "@minecraft/server",
+            "version": "1.5.0"
+        }
+    ]
+}

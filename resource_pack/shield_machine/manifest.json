@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "ごめん、同級会には行けません。いま、シンガポールにいます。",
+        "description": "この国を南北に縦断する地下鉄を、私は作っています。",
+        "uuid": "e40bd434-ca8e-0984-3765-e8f286f9df3b",
+        "version": [1,0,0],
+        "min_engine_version": [1,20,0]
+    },
+    "modules": [
+        {
+            "description": "サンプルのリソースパック",
+            "type": "resources",
+            "uuid": "0dc5a9ba-18d0-2a04-5280-9e3bcfdbaaf2",
+            "version": [1, 0, 0]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid":"d5179267-2c4f-d6b3-11a2-f056b43fa8ec",
+            "version":[1,0,0]
+        }
+    ]
+}

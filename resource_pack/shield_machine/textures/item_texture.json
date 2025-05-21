@@ -1,0 +1,9 @@
+{
+  "resource_pack_name": "shield_machine",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "shield_machine": {
+      "textures": "textures/1_shield_machine/shield_machine"
+    }
+  }
+}
